@@ -9,6 +9,6 @@
 <body>
     <h1>Hi My name is Sipheng </h1>
     <p>i'm a programmer for APP and Web Fullstack!</p>
-    <img src="image/148-new.jpg" >My picture </img>
+    <img src="image/148-new.jpg" width="200">My picture </img>
 </body>
 </html>
