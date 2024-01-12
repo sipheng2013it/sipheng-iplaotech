@@ -1,5 +1,22 @@
 
 
+
+#navbar1 {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #f8f8f8;
+  /* Add other styling properties as needed */
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  /* Add other styling properties for the sticky effect */
+}
+
+
+
 #about{
   min-height: 200px;
   position: relative;
